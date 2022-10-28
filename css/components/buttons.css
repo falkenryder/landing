@@ -1,0 +1,16 @@
+.btn-lg {
+	color: white;
+	border-radius: 50px;
+	padding: 10px 40px;
+	font-weight: bolder;
+	background-image: linear-gradient(to right, #551A8B, black);
+	text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.btn-lg:hover {
+  color: white;
+  background-image: linear-gradient(to right, #551A8B, black);
+	text-decoration: none;
+  opacity: 0.8;
+}
